@@ -1,0 +1,13 @@
+{
+  "average_breach_cost_usd": 4990000,
+  "major_breach_probability_before": 0.02,
+  "major_breach_probability_after": 0.012,
+  "routine_downtime_hours_before": 40,
+  "routine_downtime_hours_after": 16,
+  "cost_per_routine_downtime_hour_usd": 200,
+  "minor_leak_losses_before_usd": 8000,
+  "minor_leak_losses_after_usd": 4000,
+  "implementation_cost_usd": 25000,
+  "annual_operating_cost_usd": 8000,
+  "annual_hours": 8760
+}
